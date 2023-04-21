@@ -1,3 +1,10 @@
-/target
+#RUST
+**/target
+
+#IDE
 *.iml
 /.idea
+
+#MISC
+.DS_Store
+
