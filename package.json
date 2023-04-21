@@ -3,6 +3,7 @@
     "check/build/run": "cargo run",
     "watch": "cargo watch -x run",
     "compile": "cargo check",
+    "docs": "cargo doc --open",
     "release": "cargo build --release"
   }
 }
